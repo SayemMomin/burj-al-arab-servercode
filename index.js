@@ -1,5 +1,5 @@
 const express = require('express')
-const port = 6000
+const port = 5000
 const MongoClient = require('mongodb').MongoClient;
 
 const bodyParser = require('body-parser');
